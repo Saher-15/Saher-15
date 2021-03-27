@@ -2,6 +2,11 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
+/**
+ * @author saher
+ * 
+ *
+ */
 public class TestThreadCheckArray {
 
 
