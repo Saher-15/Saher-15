@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author saher
- * with ibrahim qasem
+ * working with ibrahim qasem
  *
  */
 public class TestThreadCheckArray {
